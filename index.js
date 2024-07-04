@@ -1,5 +1,5 @@
 const a = [12, 22, 44, 56, 1, 3, 0, 10];
-const b = 44;
+const b = 45;
 
 function sum(arr) {
     let result = 0;
